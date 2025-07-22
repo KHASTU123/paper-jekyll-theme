@@ -17,6 +17,10 @@ Let's work on it!
 
 ~~~python
 print("Hello, World!")
+a = 2
+b= 3
+print(a*b)
+print("Phan Van kha")
 ~~~
 
 This is the most basic Python command. It prints a string to the console.
@@ -26,9 +30,9 @@ This is the most basic Python command. It prints a string to the console.
 ### 02. Variables and Data Types in Python
 
 ~~~python
-name = "Junhee"
-age = 21
-is_student = True
+My full name = "Phan Van Kha"
+I am 21 years old and I really like intersting moment.
+
 
 print(f"My name is {name}, I am {age} years old.")
 ~~~
