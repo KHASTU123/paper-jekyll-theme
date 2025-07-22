@@ -14,7 +14,8 @@ Let's work !
 
 ## Practice
 
-![test_kitten_from_internet](https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+![test_kitten_from_internet](https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg)
+This Is images from Internet and I really like it because I have two cats
 
 This is how to upload the image from the internet!
 
