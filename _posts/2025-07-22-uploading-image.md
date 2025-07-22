@@ -19,7 +19,7 @@ This Is images from Internet and I really like it because I have two cats
 
 This is how to upload the image from the internet!
 
-![test_kitten](https://junhee-lee233.github.io/paper-jekyll-theme/assets/images/test_kitten.jpeg)
-
+![test_kitten](https://github.com/KHASTU123/paper-jekyll-theme/blob/master/assets/download.jpg)
+I have just changed this video and I really I like this at the moment.
 This is how to upload from your assets (your local image)
 
